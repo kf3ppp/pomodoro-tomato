@@ -1,0 +1,6 @@
+{
+  "name": "Pomodoro Focus Widgets",
+  "description": "Sleek iOS and Android style Pomodoro focus timer widgets with live countdowns, audio feedback, customizable sessions, and multiple widget styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
